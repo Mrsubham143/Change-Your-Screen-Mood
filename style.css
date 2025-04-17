@@ -1,0 +1,22 @@
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+#mode {
+    display: flex;
+    justify-self: center;
+    margin: 85% 25% 25% 25%;
+    font-style: italic;
+    background-color: rgb(246, 246, 249);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h5{
+    margin: 110% 1% 1% 80%;
+}
